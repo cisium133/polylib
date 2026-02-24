@@ -1,0 +1,14 @@
+# app-ads.txt for PolyLib
+# 
+# IMPORTANT: This file must be published at the root of your developer website.
+# Example: https://yourdomain.com/app-ads.txt
+# 
+# The domain must match exactly what is listed on Google Play or the App Store.
+# 
+# After publishing, wait at least 24 hours for AdMob to crawl and verify this file.
+# You can check the status in AdMob: Apps > [Your App] > app-ads.txt tab
+#
+# For more information, see:
+# https://support.google.com/admob/answer/9787936
+
+google.com, pub-5320663810268632, DIRECT, f08c47fec0942fa0
